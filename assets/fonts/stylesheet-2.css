@@ -1,0 +1,270 @@
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt Condensed';
+    src: url('assets/fon/BricolageGrotesque72ptCondensed-Bold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72ptCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque72ptSemiCondensed-Medium.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72ptSemiCondensed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque72ptSemiCondensed-Bold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72ptSemiCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque72ptSemiCondensed-ExtraBold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72ptSemiCondensed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt Condensed';
+    src: url('assets/fon/BricolageGrotesque72ptCondensed-ExtraBold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72ptCondensed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque72ptSemiCondensed-SemiBold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72ptSemiCondensed-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque72ptSemiCondensed-ExtraLight.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72ptSemiCondensed-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque72ptSemiCondensed-Regular.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72ptSemiCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque72ptSemiCondensed-Light.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72ptSemiCondensed-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt';
+    src: url('assets/fon/BricolageGrotesque72pt-SemiBold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72pt-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt';
+    src: url('assets/fon/BricolageGrotesque72pt-Regular.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72pt-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt';
+    src: url('assets/fon/BricolageGrotesque72pt-ExtraBold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72pt-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt';
+    src: url('assets/fon/BricolageGrotesque72pt-Light.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72pt-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt';
+    src: url('assets/fon/BricolageGrotesque72pt-Bold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72pt-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt';
+    src: url('assets/fon/BricolageGrotesque72pt-ExtraLight.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72pt-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 72pt';
+    src: url('assets/fon/BricolageGrotesque72pt-Medium.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque72pt-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed';
+    src: url('assets/fon/BricolageGrotesque48ptCondensed-ExtraLight.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptCondensed-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed';
+    src: url('assets/fon/BricolageGrotesque48ptCondensed-Regular.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed';
+    src: url('assets/fon/BricolageGrotesque48ptCondensed-Bold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed';
+    src: url('assets/fon/BricolageGrotesque48ptCondensed-Light.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptCondensed-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed';
+    src: url('assets/fon/BricolageGrotesque48ptCondensed-ExtraBold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptCondensed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed';
+    src: url('assets/fon/BricolageGrotesque48ptCondensed-SemiBold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptCondensed-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt Condensed';
+    src: url('assets/fon/BricolageGrotesque48ptCondensed-Medium.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptCondensed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque48ptSemiCondensed-Bold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptSemiCondensed-Bold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque48ptSemiCondensed-SemiBold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptSemiCondensed-SemiBold.woff') format('woff');
+    font-weight: 600;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque48ptSemiCondensed-ExtraLight.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptSemiCondensed-ExtraLight.woff') format('woff');
+    font-weight: 200;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque48ptSemiCondensed-Regular.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptSemiCondensed-Regular.woff') format('woff');
+    font-weight: normal;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque48ptSemiCondensed-Medium.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptSemiCondensed-Medium.woff') format('woff');
+    font-weight: 500;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque48ptSemiCondensed-Light.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptSemiCondensed-Light.woff') format('woff');
+    font-weight: 300;
+    font-style: normal;
+    font-display: swap;
+}
+
+@font-face {
+    font-family: 'Bricolage Grotesque 48pt SemiCondensed';
+    src: url('assets/fon/BricolageGrotesque48ptSemiCondensed-ExtraBold.woff2') format('woff2'),
+        url('assets/fon/BricolageGrotesque48ptSemiCondensed-ExtraBold.woff') format('woff');
+    font-weight: bold;
+    font-style: normal;
+    font-display: swap;
+}
+
